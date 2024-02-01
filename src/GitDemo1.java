@@ -5,6 +5,7 @@ public class GitDemo1 {
 	
 	{
 		System.out.println("done");
+		System.out.println("git demo1");
 	
 
 
